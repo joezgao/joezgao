@@ -31,6 +31,6 @@ Small models and research ideas, built from scratch and made visible in 3D, most
 
 - [**Almost Ripe**](https://github.com/joezgao/almost-ripe) · [play](https://joezgao.github.io/almost-ripe/almost-ripe.html): an interactive story inspired by Harlan Ellison's *I Have No Mouth, and I Must Scream*. Five people are left, and something keeps them. Made in three.js and Web Audio, with every surface, light and sound generated in code.
 
-I choose the question, the design and the checks; Claude writes most of the code. Every number in a README can be traced to its repo.
+I choose the question, the design and the checks; Claude writes most of the code.
 
 [X](https://x.com/josephzgao) · [Hugging Face](https://huggingface.co/joezgao)
