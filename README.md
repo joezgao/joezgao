@@ -25,13 +25,12 @@ Small models and research ideas, built from scratch and made visible in 3D, most
 
 - [**All the way down**](https://github.com/joezgao/all-the-way-down) · [play](https://joezgao.github.io/all-the-way-down/all-the-way-down.html): WonderZoom's scale-aware opacity (Cao, Yu & Wu, arXiv 2512.09164) in a browser viewer that zooms 10,000× down a procedural maple leaf to a single stoma.
 - [**Seen from twelve sides**](https://github.com/joezgao/seen-from-twelve-sides) · [play](https://joezgao.github.io/seen-from-twelve-sides/seen-from-twelve-sides.html): 3D Gaussian Splatting (Kerbl, Kopanas, Leimkühler & Drettakis, 2023) written from scratch in NumPy. 4,000 Gaussians are fitted to twelve rendered photographs of a stone.
-- **Before the run**: *Hinted Scaling Laws* (van Adrichem … Hashimoto, 2026), made playable. Fit a law on small models, press Run, and check its forecast against the largest model's measured 25.9% on GSM8K. *Private until data permission.*
 - [**Karesansui 枯山水**](https://github.com/joezgao/karesansui) · [play](https://joezgao.github.io/karesansui/karesansui.html): a dry Zen garden whose rake lines follow a field that flows around each stone. After every change, an unseen monk re-rakes it in about 20–25 strokes.
 
 **stories**
 
 - [**Almost Ripe**](https://github.com/joezgao/almost-ripe) · [play](https://joezgao.github.io/almost-ripe/almost-ripe.html): an interactive story inspired by Harlan Ellison's *I Have No Mouth, and I Must Scream*. Five people are left, and something keeps them. Made in three.js and Web Audio, with every surface, light and sound generated in code.
 
-Built with Claude.
+I choose the question, the design and the checks; Claude writes most of the code. Every number in a README can be traced to its repo.
 
 [X](https://x.com/josephzgao) · [Hugging Face](https://huggingface.co/joezgao)
